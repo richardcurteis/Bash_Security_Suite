@@ -13,3 +13,5 @@ etc.
 Finally and more as an experimant for myself, I tried to incorporate a script scanning feature, whereby using 
 regular expressions, the script would scan a file, determine file type etc and look for any potentially dangerous
 commands, in the case of large untrusted scripts downloaded from the internet.
+
+Script built and tested in Kali Linux
