@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#Security Hydra
-#Author: 3therk1ll
+#Security Suite
+#Author: Richard Curteis
 
 #"Security isn't a dirty word, Blackadder, crevice, is a dirty word."
 #General Sir Anthony Cecil Hogmanay Melchett
